@@ -1,4 +1,5 @@
-first_name = input("Hey, what's your first name? : ").split()
-last_name = input("And your last name? : ").split()
+age = 19
+forty_two = 42
+my_age = age + forty_two
 
-print(f'Well, pleased to meet you, {first_name[0]} {last_name[0]}!')
+print(my_age)
