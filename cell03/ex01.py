@@ -1,3 +1,5 @@
+#multiplication_table.py
+
 n = int(input("Enter a number\n"))
 
 for i in range(13):
